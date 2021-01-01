@@ -15,6 +15,7 @@
         <module>renren-fast</module>
         <module>renren-generator</module>
         <module>gilimall-gateway</module>
+        <module>gulimall-third-party</module>
     </modules>
     <name>gulimall</name>
     <description>聚合依赖</description>
